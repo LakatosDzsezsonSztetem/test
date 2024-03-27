@@ -17,7 +17,7 @@ namespace ConsoleApp1
                 Console.WriteLine(i);
             }
 
-
+//setest
             //READ ME BRO added
             Console.ReadLine();
         }
