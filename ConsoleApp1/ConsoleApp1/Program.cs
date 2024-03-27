@@ -19,6 +19,12 @@ namespace ConsoleApp1
 
 //setest
             //READ ME BRO added
+
+            while(a < 100)
+            {
+                a++;
+                Console.WriteLine(a);
+            }
             Console.ReadLine();
         }
     }
